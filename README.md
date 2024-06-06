@@ -1,3 +1,5 @@
+![demo pic](zombie-demo.gif)
+
 # Zombie Game
 An unfinished project using GameMaker Studio 1.4
 
@@ -14,5 +16,3 @@ Shooting is left-click
 Zoom is right-click
 
 Sprinting is shift; this moves in the direction of the camera
-
-![demo pic](zombie-demo.png)
